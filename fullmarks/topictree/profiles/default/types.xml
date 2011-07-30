@@ -8,4 +8,6 @@
   -->
 <object name="portal_types" meta_type="Plone Types Tool">
   <!-- -*- extra stuff goes here -*- -->
+  <object name="fullmarks.topictree.topic" meta_type="Dexterity FTI" />
+  <object name="fullmarks.topictree.topictree" meta_type="Dexterity FTI" />
 </object>

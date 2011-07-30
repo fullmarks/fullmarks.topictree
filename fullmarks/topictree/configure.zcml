@@ -19,7 +19,7 @@
        in Plone -->
   <genericsetup:registerProfile
       name="default"
-      title="A topic tree for Plone"
+      title="Fullmarks topic tree"
       directory="profiles/default"
       description="Extension profile for A topic tree for Plone"
       provides="Products.GenericSetup.interfaces.EXTENSION"
